@@ -1,0 +1,8 @@
+{
+  "name": "Nova AI Assistant",
+  "description": "A world-class, multi-modal AI assistant powered by Gemini. Features real-time voice interaction, high-quality image generation, Google Search grounding, and intelligent document analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
